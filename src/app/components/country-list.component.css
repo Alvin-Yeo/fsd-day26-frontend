@@ -1,0 +1,4 @@
+.country:hover {
+    background-color: lightcyan;
+    cursor: pointer;
+}
